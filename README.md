@@ -1,0 +1,1 @@
+Exemplo de importação de dados usando arquivo texto e PHP. Neste exemplo o PHP vai importar dados de um arquivo texto para o banco de dados MySQL. As credenciais de acesso devem ser configuradas no arquivo Comandos.php
